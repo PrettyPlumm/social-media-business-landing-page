@@ -1,0 +1,24 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Social Media Services</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: sans-serif; padding: 2rem; text-align: center; background: #f4f4f4; }
+    .hero { max-width: 600px; margin: auto; background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 0 20px rgba(0,0,0,0.1); }
+    h1 { color: #333; }
+    p { color: #666; }
+    a.button { display: inline-block; margin-top: 1rem; padding: 1rem 2rem; background: #007BFF; color: white; text-decoration: none; border-radius: 0.5rem; }
+    a.button:hover { background: #0056b3; }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>Boost Your Social Media Presence</h1>
+    <p>I help brands grow their online presence through strategy, content, and analytics.</p>
+    <a href="mailto:your.email@example.com" class="button">Contact Me</a>
+  </div>
+</body>
+</html>
